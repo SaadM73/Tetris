@@ -1,2 +1,2 @@
 # Tetris
-Tetris using C++ and SFML library
+Tetris game using C++ and SFML library
